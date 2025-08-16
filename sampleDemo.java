@@ -3,5 +3,6 @@ public class sampleDemo {
         System.out.println("Jenkins check");
         System.out.println("Jenkins edit test");
         System.out.println("Auto Trigger check ");
+        System.out.println("New branch created");
     }
 }
